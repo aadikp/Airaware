@@ -1,0 +1,15 @@
+# R environment and workspace files
+.RData
+.RData*
+.Rhistory
+.Rproj.user/
+
+# Temporary and office lock files
+*.tmp
+*.log
+~$*
+.DS_Store
+# Reports and presentation documents (local assessment artifacts)
+reports/
+*.pptx
+*.pdf
